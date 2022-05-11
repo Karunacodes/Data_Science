@@ -1,0 +1,6 @@
+Example 3. A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
+
+Solution  There are 21 ways of drawing balls 7*6/2 = 42/2 = 21 ways
+          First ball is drawn (except blue balls) = 5/7
+          Second ball is drawn ball reduced to 4/6 = 2/3 
+          Thus, probability that none of the blue ball is drawn is = 5/7 * 2/3 = 10/21
