@@ -1,0 +1,8 @@
+Example 1. Three Coins are tossed, find the probability that two heads and one tail are obtained?
+
+Solution When 3 coins are tossed, the possible outcomes can be: 
+         {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}.
+         Therefore, the total no of outcomes = 8
+         So, number of desired outcomes: {HHT, HTH, THH} =3
+          P (getting 2 Heads & 1 Tail) =Number of Favorable Outcomes/Total Number of Events
+          The probability that two heads and one tail obtained=3/8
