@@ -1,0 +1,28 @@
+Example 1.Calculate Expected Value for the problem below
+          The weights (X) of patients at a clinic (in pounds), are
+          108, 110, 123, 134, 135, 145, 167, 187, 199
+          Assume one of the patients is chosen at random. What is the Expected Value of the Weight of that patient?
+        
+Solution: Total weight: 108 + 110 + 123 + 134 + 135 + 145 + 167 + 187 + 199 = 1308
+          Total no. of values/ outcomes = 9
+          Assume one patient is chosen at random =1/9
+          Expected Value = ∑X/n= 1308 /9 = 145.33333 ≈ 145
+          
+          
+Example 2.Calculate the Expected number of candies for a randomly selected child:
+          Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
+          i. Child A – probability of having 1 candy is 0.015
+          ii. Child B – probability of having 4 candies is 0.20
+
+
+            CHILD             Candies count         Probability
+              A                     1                  0.015
+              B                     4                  0.20
+              C                     3                  0.65
+              D                     5                  0.005
+              E                     6                  0.01
+              F                     2                  0.12
+
+
+Solution: Expected number of candies for the randomly selected child
+          =(1*0.015) + (4*0.20) + (3*0.65) + (5*0.005) + (6*0.01) + (2*0.120) =3.225
