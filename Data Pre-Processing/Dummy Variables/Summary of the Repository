@@ -1,0 +1,31 @@
+Data is one of the most important assets. It is often common that data is stored in distinct systems with different formats and forms.
+Non-numeric form of data makes it tricky while developing mathematical equations for prediction models.
+We have the preprocessing techniques to make the data convert to numeric form. 
+
+
+Example:	Prepare the dataset by performing the preprocessing techniques, to have the all the features in numeric format.
+
+Index	    Animals	  Gender	Homly	Types
+1.	      Cat	      Male	   Yes  	A
+2.        Dog	      Male	   Yes  	B
+3.       Mouse	    Male	   Yes  	C
+4.       Mouse	    Male	   Yes  	C
+5.        Dog	      Female	 Yes  	A
+6.        Cat	      Female	 Yes  	B
+7.        Lion	    Female	 Yes	  D
+8.        Goat	    Female	 Yes	  E
+9.        Cat	      Female	 Yes	  A
+10.	      Dog	      Male	   Yes	  B
+
+
+Data dictionary
+
+Name of Feature	      Description	                                 Type	                      Relevance
+Index	          Index numbers of records	                Quantitative, Nominal	      Irrelevant, not useful in any analysis
+Animals	        Names of animals	                        Qualitative, Nominal	      Relevant, useful for analysis
+Gender	        Details of gender of animals	            Qualitative, Nominal	      Relevant, useful for analysis
+Homly	          Whether the animal can be kept at home	  Qualitative, Binary	        Relevant, useful for analysis
+Types	          Category assigned to animals based on   	Qualitative, Ordinal	      Relevant, useful for analysis
+                their certain characteristics
+                
+
