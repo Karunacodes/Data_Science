@@ -1,0 +1,32 @@
+Data is one of the most important assets. It is often common that data is stored in distinct systems with different formats and scales.
+These seemingly small differences in how the data is stored can result in misinterpretations and inconsistencies in your analytics.
+Inconsistency can make it impossible to deliver reliable information to management for good decision making. 
+We have the preprocessing techniques to make the data uniform.
+We need to explore the various techniques to have reliable uniform standard data.
+
+
+Example:	Prepare the dataset by performing the preprocessing techniques, to have the standard scale to data.(refer attached Standardization & Normalization.py file)
+
+Data Dictionary
+Name of Feature	            Description	        Type	Relevance
+Area	            Area of wheat kernel	        Quantitative, Numeric	Relevant, Useful for analysis
+
+Perimeter	        Perimeter of wheat kernel	    Quantitative, Numeric	Relevant, Useful for analysis
+
+Compactness	      Compactness of wheat kernel   Quantitative, Numeric	Relevant, Useful for analysis
+                   formula: C = 4*pi*A/P^2	
+Length	          Length of wheat kernel	      Quantitative, Numeric	Relevant, Useful for analysis
+
+Width	            Width of wheat kernel	        Quantitative, Numeric	Relevant, Useful for analysis
+
+Asymmetry-Coeff	  Asymmetry coefficient	        Quantitative, Numeric	Relevant, Useful for analysis
+
+len-ker-grove	    Length of wheat kernel groove	Quantitative, Numeric	Relevant, Useful for analysis
+
+Types	            Varieties of Wheat	          Quantitative, Ordinal	Relevant, Useful for analysis
+
+
+This repository contains following files:
+  1. Dataset on Seeds_data on csv file
+  2. Python code on .py file
+  3. Summary of the repository
