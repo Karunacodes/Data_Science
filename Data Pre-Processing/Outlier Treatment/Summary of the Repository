@@ -1,0 +1,46 @@
+Most of the datasets have extreme values or exceptions in their observations.
+These values affect the predictions (Accuracy) of the model in one way or the other, removing these values is not a very good option.
+For these types of scenarios, we have various techniques to treat such values. 
+
+Example :	Prepare the dataset by performing the preprocessing techniques, to treat the outliers.
+
+
+Data dictionary
+Name of Feature	      Description	                          Type	                         Relevance
+Crim	        per capita crime rate by town 	      Quantitative, Numeric	      Relevant, useful for analysis
+
+Zn	          proportion of residential land 	      Quantitative , Numeric	    Relevant, useful for analysis
+              zoned for lots over 25,000 sq.ft
+Indus	        proportion of non-retail 	            Quantitative, Numeric	      Relevant, useful for analysis
+              business acres per town
+Chas	        Charles River dummy variable	        Quantitative, Binary	      Relevant, useful for analysis
+
+Nox	          nitric oxides concentration 	        Quantitative, Numeric	      Relevant, useful for analysis
+
+Rm	          average number of rooms per dwelling	Quantitative, Numeric	      Relevant, useful for analysis
+
+Age	          proportion of owner-occupied 	        Quantitative, Numeric       Relevant, useful for analysis
+              units built prior to 1940
+
+Dis	          weighted distances to five Boston 	  Quantitative, Numeric	      Relevant, useful for analysis
+              employment centres
+              
+Rad	          index of accessibility to 	          Quantitative, Numeric	      Relevant, useful for analysis
+              radial highways
+Tax	          full-value property-tax 	            Quantitative, Numeric	      Relevant, useful for analysis
+              rate per $10,000
+
+Ptratio	      pupil-teacher ratio by town	          Quantitative, Numeric	      Relevant, useful for analysis
+
+Black	        the proportion of blacks by town	    Quantitative, Numeric	      Relevant, useful for analysis
+
+Istat	        % lower status of the population	    Quantitative, Numeric	      Relevant, useful for analysis
+
+Mdev	        Median value of owner-occupied      	Quantitative, Numeric	      Relevant, useful for analysis
+              homes in $1000's
+
+
+This repository contains following files :
+  1. Boston dataset on csv file
+  2. Python code on .py file
+  3. Summary of the repository
