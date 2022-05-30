@@ -1,0 +1,25 @@
+Everything will revolve around the data in Analytics world.
+Proper data will help you to make useful predictions which improve your business.
+Sometimes the usage of original data as it is does not help to have accurate solutions.
+It is needed to convert the data from one form to another form to have better predictions.
+We need to explore on various techniques to transform the data for better model performance.
+
+Example : 1)	Convert the continuous data into discrete classes on iris dataset.
+              Prepare the dataset by performing the preprocessing techniques, to have the data which improve model performance.
+              
+              
+Data Dictionary
+
+Name of Feature	          Description	      Type	                                  Relevance
+Sepal.Length	    Length of Sepals	   Quantitative, Numeric	    Relevant, Useful for analysis of Species of Iris flower
+Sepal.Width	      Width of Sepals	     Quantitative, Numeric	    Relevant, Useful for analysis of Species of Iris flower
+Petal.Length	    Length of Petals	   Quantitative, Numeric	    Relevant, Useful for analysis of Species of Iris flower
+Petal.Width	      Width of Petals	     Quantitative, Numeric	    Relevant, Useful for analysis of Species of Iris flower
+Species	          Types of Species	   Qualitative, Categorical	  Relevant, Useful for classifying the Iris flower based on various features
+
+
+This repository contains following files :
+  1. Summary of the Repository
+  2. Iris Dataset in the CSV file
+  3. Python code on PY file
+  4. Iris_Discretization.csv file with transformed data
