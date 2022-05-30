@@ -1,0 +1,17 @@
+Majority of the datasets have missing values, that might be because the data collected were not at regular intervals or the breakdown of instruments and so on. 
+It is nearly impossible to build the proper model or in other words, get accurate results. 
+The common techniques are either removing those records completely or substitute those missing values with the logical ones, there are various techniques to treat these types of problems.
+
+Example:	Prepare the dataset using various techniques to solve the problem, explore all the techniques available and use them to see which gives the best result.
+
+
+Data Dictionary
+Name of Feature	            Description     	Type	Relevance
+CASENUM	     Case number to identify the claim	Quantitative, Nominal	Irrelevant, not useful in any analysis
+ATTORNEY	   Whether the claimant is represented by an attorney (=1 if yes and =2 if no)	Quantitative, Binary	Irrelevant, not useful for analysis
+CLMSEX	     Claimant’s gender (=1 if male and =2 if female)	Quantitative, Binary	Irrelevant, not useful for analysis
+CLMINSUR	  Whether or not the driver of the claimant’s vehicle was uninsured (=1 if yes, =2 if no, and =3 if not applicable)	Quantitative, Binary	Relevant, useful for analysis
+SEATBELT	  Whether or not the claimant was wearing a seatbelt/child restraint (=1 if yes, =2 if no, and =3 if not applicable)	Quantitative, Binary	Relevant, useful for analysis
+CLMAGE	    Claimant’s age	Quantitative, Numeric	Relevant, useful for analysis
+LOSS	      The claimant’s total economic loss (in thousands)	Quantitative, Numeric	Relevant, useful for analysis
+
