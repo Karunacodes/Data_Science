@@ -1,0 +1,19 @@
+Variance measures how far a set of data is spread out. A variance of zero indicates that all the data values are identical.
+There are various techniques to remove this for transforming the data into the suitable one for prediction.
+
+Example : Find which columns of the Z_dataset.csv dataset with zero variance.
+          Explore various techniques used to remove the zero variance from the dataset to perform certain analysis.
+          
+Data Dictionary
+Name of Feature     	  Description	              Type	                    Relevance
+Id	              Index number	            Quantitative, Nominal	    Irrelevant, not useful for analysis
+square.length	    Length of the square	    Quantitative, Numeric	    Relevant, useful for analysis
+square.breadth	  Breadth of the square	    Quantitative, Numeric	    Relevant, useful for analysis
+rec.Length	      Length of the rectangle	  Quantitative, Numeric	    Relevant, useful for analysis
+rec.breadth	      Breadth of the rectangle	Quantitative, Numeric	    Relevant, useful for analysis
+colour	          Colour specification	    Qualitative, Categorical	Relevant, useful for analysis
+
+This Repository contains following files :
+1. Summary of the repository
+2. Dataset Z_data set.csv
+3. Python code on Zero Variance.py file
