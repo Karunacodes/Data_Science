@@ -1,0 +1,15 @@
+Everything will revolve around the data in Analytics world. Proper data will help in making useful predictions which improves business.
+Sometimes the usage of original data as it does not help to have accurate solutions.
+It is needed to convert the data from one form to another form to have better predictions. 
+
+Example : Explore on various techniques to transform the data for better model performance. 
+
+Data Dictionary
+Name of Feature	                Description	        Type	                         Relevance
+Weight gained (grams)	      Weight gained	      Quantitative, Numeric      Relevant, useful for analysis
+Calories Consumed	          Calories consumed	  Quantitative, Numeric	     Relevant, useful for analysis
+
+This repository contains following files:
+1. Summary of the Repository
+2. Dataset calories_consumed.csv file
+3. Python code in Transformation.py file
