@@ -1,0 +1,12 @@
+1.	What will be the output of the following (can/cannot):
+a.	Age1=5 : can
+b.	5age=55 : cannot, as Python variable cannot start with a number.
+
+2.	What will be the output of following (can/cannot):
+a.	Age_1=100 : can
+b.	age@1=100 : cannot, as Python variable cannot have special character in it.
+
+3.	How can you delete variables in Python ?
+Ans. The del keyword can be used to delete variables in Python.
+
+	Syntax: del var_name	
