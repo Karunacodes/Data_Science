@@ -1,0 +1,17 @@
+Example: 1.	For the dataset “Indian_cities”, 
+            a)	Find out top 10 states in female-male sex ratio
+            b)	Find out top 10 cities in total number of graduates
+            c)	Find out top 10 cities and their locations in respect of  total effective_literacy_rate.
+
+Example: 2.	For the data set “Indian_cities”
+          a)	Construct histogram on literates_total and comment about the inferences
+          b)	Construct scatter  plot between  male graduates and female graduates
+
+Example: 3.	For the data set “Indian_cities”
+          a)	Construct Boxplot on total effective literacy rate and draw inferences
+          b)	Find out the number of null values in each column of the dataset and delete them.
+
+This Repository contains following files :
+  1.Summary of the Repository
+  2.Python code on the Python_PACKAGES.py file
+  3.Dataset on csv file
