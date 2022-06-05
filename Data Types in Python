@@ -1,4 +1,4 @@
-1.	 Identify the data type (continuous/discrete) for the following:
+1. Examples of various data types in terms of continuous/discrete data types :
 
 Activity	                                    Data Type
 Number of sheep counted while trying to sleep	Discrete
@@ -28,7 +28,7 @@ Stolen Cars	                                  Discrete
 
 
 
-2.	Identify the data types (Nominal, Ordinal, Interval, and Ratio)
+2. Examples of various data types in terms of Nominal, Ordinal, Interval, and Ratio :
 
 Data	                               Data Type
 Gender	                              Nominal
@@ -71,7 +71,9 @@ Amount of Money 	                    Ratio
 Colors of paint 	                    Nominal
 Weekly Food spending	                Ratio
 
-3.	Identify whether the data is qualitative or quantitative:
+
+
+3. Examples of various data types in terms of qualitative or quantitative:
 Data	                          Data Type (Qualitative/Quantitative)
 I bought Strawberry lipstick today 	      Qualitative
 Happiness rating 	                        Qualitative
@@ -82,7 +84,9 @@ cold Coffee	                              Qualitative
 The Tea smells good 	                    Qualitative
 Dress Size	                              Quantitative
 
-4.	Identify whether the data is categorical or numerical for the following:
+
+
+4. Examples of various data types in terms of categorical or numerical :
 Data	              Data Type (Categorical / Numerical)
 Product type 	              Categorical
 Native language	            Categorical
@@ -93,9 +97,7 @@ Lockdown Days 	            Numeric
 
 
 
-
-
-5.	Identify whether the data is structured or unstructured for the following:
+5. Examples of various data types in terms of structured or unstructured data:
 
 Data	                   Data Type (Structured/Unstructured)
 Credit card numbers 	    Structured
