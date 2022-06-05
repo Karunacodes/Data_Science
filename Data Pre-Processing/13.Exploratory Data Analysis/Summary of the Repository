@@ -1,0 +1,14 @@
+Examples on EDA
+
+Example 1. Calculate Skewness, Kurtosis using R/Python code & draw inferences on the following data.
+           Hint: [Insights drawn from the data such as data is normally distributed/not, outliers, measures like mean, median, mode, variance, std. deviation]
+            a.   Cars speed and distance
+            
+            b.   Top Speed (SP) and Weight (WT)
+            
+This Repository consists of the following files :
+ 1. Summary of the Repository
+ 2. Python code on Example1_EDA.py file
+ 3. Inferences on word file : 
+      1. Example 1.a.txt
+      2. Example 1.b.txt
