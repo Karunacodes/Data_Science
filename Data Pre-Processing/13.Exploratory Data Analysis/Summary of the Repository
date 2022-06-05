@@ -9,7 +9,10 @@ Example 1. Calculate Skewness, Kurtosis using R/Python code & draw inferences on
 This Repository consists of the following files :
  1. Summary of the Repository
  2. Python code on Example1_EDA.py file
- 3. Inferences on word file : 
+ 3. Dataset on csv files :
+      1. EDA_Example_1a.csv
+      2. EDA_Example_1b.csv
+ 4. Inferences on word file : 
       1. Example 1.a.docx
       2. Example 1.b.docx
 
