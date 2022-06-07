@@ -5,6 +5,55 @@ Example 1. Calculate Skewness, Kurtosis using R/Python code & draw inferences on
             a.   Cars speed and distance
             
             b.   Top Speed (SP) and Weight (WT)
+	    
+Example 2. Draw inferences from Histogram & Boxplot :  inferences are saved on Chick_weight_histogram_boxplot_inferences.docx
+
+
+Example 3. Below are the scores obtained by a student in tests 
+                  34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56
+           
+	   1) Find mean, median, variance, standard deviation.
+           Solution: Please refer the file Example_EDA_Q3.py file too.
+           a. Mean : 41.0
+	   b. Median: 40.5 
+           c. Mode : 41
+           d. Variance : 25.53
+           e. Standard Deviation : 5.05
+	   
+	 2) What can we say about the student marks? [Hint: Looking at the various measures calculated above whether the data is normal/skewed or if outliers are present].
+	 Solution: The data is not normally distributed, it is positively skewed (here mean > median) and has outliers. Because the distribution is skewed, median describes the central  tendency better.
+	 
+Example 4. 1) What is the nature of skewness when mean, median of data is equal?
+	  Solution: Skewness is zero when mean and median are equal, and data is normally distributed.
+	  
+	  2) What is the nature of skewness when mean > median?
+	 Solution: Skewness is positive when mean is more than median.
+	 
+	 3) What is the nature of skewness when median > mean?
+	 Solution: Skewness is negative when median is more than mean.
+	 
+	 4) What does positive kurtosis value indicates for a data?
+	Solution: Positive kurtosis means less data values are located near the mean and more data values are located on the tails, 
+		  it implies that the peaks are sharp and tails are heavy, also known as leptokurtic.
+	
+	5) What does negative kurtosis value indicates for a data?
+	Solution: Negative Kurtosis means more data values are located near the means and less data values are located on the tails.
+		  It is also called platykurtic and implies that the peak is flat and tails are thin.
+
+
+Example 5. Refer Example 5_ Boxplot.docx file.
+	1) What can we say about the distribution of the data?
+	Solution: The data is not normally distributed. The median is towards the right side of the box indicating most of the 
+		  distribution on this side only and there is a outlier on left side. Left whisker of the box plot is longer too.
+		  
+	2)What is nature of skewness of the data?
+	Solution: The skewness is on the left side.
+	
+	3)What will be the IQR of the data (approximately)? 
+	solution: IQR = Q3 – Q1 = 18 – 10 = 8
+
+
+
             
 This Repository consists of the following files :
  1. Summary of the Repository
@@ -16,18 +65,8 @@ Example 1. a. Python code on Example1_EDA.py file
                1. Example 1.a.docx
                2. Example 1.b.docx
                
-Example 2. Histogram & Boxplot inferemces in Chick_weight_histogram_boxplot_inferences.docx
+Example 2. Histogram & Boxplot inferences in Chick_weight_histogram_boxplot_inferences.docx
 
-Example 3. Below are the scores obtained by a student in tests 
-                  34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56
-           1) Find mean, median, variance, standard deviation.
-           2) What can we say about the student marks? [Hint: Looking at the various measures calculated above whether the data is normal/skewed or if outliers are present].  
-Solution 1) Please refer the file Example_EDA_Q3.py file too.
-           a. Mean : 41.0
-	b. Median: 40.5 
-           c. Mode : 41
-           d. Variance : 25.53
-           e. Standard Deviation : 5.05
+Example 3. Inferences on Example 3_Histogram & Boxplot inferences.docx
 
-
-
+Example 5. Inferences of Boxplot on Example 5_ Boxplot.docx
