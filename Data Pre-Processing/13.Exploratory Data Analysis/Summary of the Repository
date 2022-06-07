@@ -8,11 +8,26 @@ Example 1. Calculate Skewness, Kurtosis using R/Python code & draw inferences on
             
 This Repository consists of the following files :
  1. Summary of the Repository
- 2. Python code on Example1_EDA.py file
- 3. Dataset on csv files :
-      1. EDA_Example_1a.csv
-      2. EDA_Example_1b.csv
- 4. Inferences on word file : 
-      1. Example 1.a.docx
-      2. Example 1.b.docx
+Example 1. a. Python code on Example1_EDA.py file
+           b. Dataset on csv files :
+              1. EDA_Example_1a.csv
+              2. EDA_Example_1b.csv
+           c. Inferences on word file : 
+               1. Example 1.a.docx
+               2. Example 1.b.docx
+               
+Example 2. Histogram & Boxplot inferemces in Chick_weight_histogram_boxplot_inferences.docx
+
+Example 3. Below are the scores obtained by a student in tests 
+                  34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56
+           1) Find mean, median, variance, standard deviation.
+           2) What can we say about the student marks? [Hint: Looking at the various measures calculated above whether the data is normal/skewed or if outliers are present].  
+Solution 1) Please refer the file Example_EDA_Q3.py file too.
+           a. Mean : 41.0
+	b. Median: 40.5 
+           c. Mode : 41
+           d. Variance : 25.53
+           e. Standard Deviation : 5.05
+
+
 
