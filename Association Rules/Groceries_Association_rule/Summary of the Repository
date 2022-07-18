@@ -1,0 +1,8 @@
+Example : The Departmental Store, has gathered the data of the products it sells on a Daily basis.
+           Using Association Rules concepts, provide the insights on the rules and the plots.
+           
+This Repository contains following files :
+1. Groceries_Association rules.py file
+2. Groceries_ rules.docx
+3. Groceries_rules.csv
+4. Grocery.csv dataset
