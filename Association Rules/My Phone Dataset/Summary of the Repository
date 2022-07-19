@@ -1,0 +1,10 @@
+Problem Stamement : A Mobile Phone manufacturing company wants to launch its three brand new phone into the market, but before going with its traditional marketing 
+                    approach this time it want to analyze the data of its previous model sales in different regions and you have been hired as an Data Scientist to 
+                    help them out, use the Association rules concept and provide your insights to the company’s marketing team to improve its sales.
+
+This Repository contains following files :
+1. Mobiles_Association rules.py file
+2. Mobiles_Association rules.dox (rules saved)
+3. Mobile_rules.csv file 
+4. Summary of the file
+5. Dataset : myphonedata.csv
