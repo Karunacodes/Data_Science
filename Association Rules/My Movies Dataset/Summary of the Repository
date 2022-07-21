@@ -1,0 +1,10 @@
+Problem statement : A film distribution company wants to target audience based on their likes and dislikes, you as a Chief Data Scientist Analyze the data 
+                    and come up with different rules of movie list so that the business objective is achieved.
+                    
+                    
+This Repository contains following files :
+1. Movies_Association rules.py file
+2. My_Movies_rules.csv file (rules)
+3. Movies_Association rules.dox
+4. Summary of the Repository
+5. Dataset : my_movies.csv
