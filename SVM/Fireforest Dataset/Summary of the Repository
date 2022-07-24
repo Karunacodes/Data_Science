@@ -1,0 +1,15 @@
+
+Problem Statement : A construction firm wants to develop a suburban locality with new infrastructure but they might incur losses if they cannot sell the properties.
+                    To overcome this, they consult an analytics firm to get insights on how densely the area is populated and the income levels of residents.
+                    Use the Support Vector Machines algorithm on the given dataset and draw out insights and also comment on the viability of investing in that area.
+                    
+Business Objective : To predict and assess the profitability in investing in a locality.
+
+Constraints : There can be many more factors which can influence the valuation of a locality e.g. government rules & regulations, commercial development of the area,
+               amenities & infrastructure of the area.
+                    
+
+This Repository contains foloowing files :
+1. Fireforest_SVM.py
+2. Summary of the Repository
+3. Dataset : forestfires.csv
