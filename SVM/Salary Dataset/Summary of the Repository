@@ -2,4 +2,9 @@ Problem Statement : In California, annual forest fires can cause huge loss of wi
                     Local officials would like to predict the size of the burnt area in forest fires annually so that they can be better prepared in future calamities. 
                      Build a Support Vector Machines algorithm on the dataset 
                      
-This file 
+This Repository contains following files:
+1. Salary_SVM.py (Python Codefile)
+2. Summary of the Repository
+3. Salary_SVM.dox (Business Objective & Constraints and Data Dictionary)
+4. Dataset : SalaryData_Test (1).csv
+5. Dataset : SalaryData_Train (1).csv
