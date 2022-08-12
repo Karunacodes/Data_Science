@@ -1,0 +1,8 @@
+Problem  Statement : A logistics company recorded the time taken for delivery and the time taken for the sorting of the items for delivery. 
+                     Build a Simple Linear Regression model to find the relationship between delivery time and sorting time with delivery time as the target variable.
+                     Apply necessary transformations and record the RMSE and correlation coefficient values for different models
+                     
+This repository consists of following files :
+1.  Delivery_Time_SLR.py file with python code
+2. Summary of the Repository
+3. Dataset : delivery_time.csv
