@@ -1,4 +1,0 @@
-Problem statement: A certain food-based company conducted a survey with the help of a fitness company to find the relationship between a person’s weight gain 
-                   and the number of calories they consumed in order to come up with diet plans for these individuals. Build a Simple Linear Regression model 
-                   with calories consumed as the target variable. Apply necessary transformations and record the RMSE and correlation coefficient values for 
-                   different models. 
