@@ -2,6 +2,11 @@ Problem statement: A certain food-based company conducted a survey with the help
                    and the number of calories they consumed in order to come up with diet plans for these individuals. Build a Simple Linear Regression model 
                    with calories consumed as the target variable. Apply necessary transformations and record the RMSE and correlation coefficient values for 
                    different models. 
+                   
+Solution : Business Objective : To make a diet plan for individuals based on their weight & calories  consumption patterns.
+
+           Constraints : Diet plan impacts individual’s health, it cannot be prepared just with considering weight & calories consumption.
+
 
 This Repository consists of following files :
 1. Calories_Consumed_SLR.py with python code
