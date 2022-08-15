@@ -1,0 +1,15 @@
+Problem Statement : A certain organization wants an early estimate of their employee churn out rate. 
+                    So the HR department gathered the data regarding the employee’s salary hike and the churn out rate in a financial year. 
+                    The analytics team will have to perform an analysis and predict an estimate of employee churn based on the salary hike.
+                    Build a Simple Linear Regression model with churn out rate as the target variable. 
+                    Apply necessary transformations and record the RMSE and correlation coefficient values for different models.
+                    
+                    
+Solution :  Business Objective : To perform an analysis and predict an estimate of employee churn based on the salary hike.
+
+            Constraints : Churning out can be the result of many factors e.g. non-cordial work environment, work pressure, growth issues, better prospects etc.
+            
+This Repository contains following files :.py file with python code
+  1. EMP_SLR.py file with python code
+  2. Summary of the Repository
+  3. Dataset : emp_data.csv file
