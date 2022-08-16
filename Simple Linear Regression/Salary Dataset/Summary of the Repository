@@ -1,0 +1,16 @@
+
+Problem Statement : The head of HR of a certain organization wants to automate their salary hike estimation. The organization consulted an analytics service provider
+                    and asked them to build a basic prediction model by providing them with a dataset that contains the data about the number of years of experience
+                    and the salary hike given accordingly. Build a Simple Linear Regression model with salary as the target variable. Apply necessary transformations 
+                    and record the RMSE and correlation coefficient values for different models.
+
+Solution : Business Objective : To analyze and predict relationship between experience & salary hike.
+
+           Constraints : Salary hike cannot simple be related to experience, performance, skills, initiatives & innovative approach are other major factors 
+                          considered in fair & growing environment.
+                          
+                          
+This Repository contains following files : 
+  1. Salary_SLR.py file with python code
+  2. Summary of the Repository
+  3. Dataset : Salary_Data.csv file
