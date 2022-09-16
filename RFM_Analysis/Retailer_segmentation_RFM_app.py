@@ -7,11 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rRHFDGsPjhJlKvWgyd4IcWWGdovhIATJ
 """
 
-pip install streamlit
 
-pip install pycaret
-
-pip install numpy==1.20.0
 
 """# **Streamlit Deployment**"""
 
