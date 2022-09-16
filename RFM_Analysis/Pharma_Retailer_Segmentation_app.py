@@ -14,7 +14,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-loaded_model = pickle.load(open("/content/drive/MyDrive/DS Projects/Project 72/Datasets/final_dt.pkl",'rb'))
+loaded_model = pickle.load(open("C:/Users/Karuna Singh/OneDrive/360/DS_Projects/Project 72/Code Files/final_dt.pkl",'rb'))
 
 model = loaded_model
 import plotly.express as px
