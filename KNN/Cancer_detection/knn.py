@@ -160,7 +160,7 @@ res = cancerclean_n.describe()
 res
 
 # Separating the input and output from the dataset
-# X = np.array(cancerclean_n.iloc[:, :]) # Predictors 
+X = np.array(cancerclean_n.iloc[:, :]) # Predictors 
 Y = np.array(cancerdf_y['diagnosis']) # Target
 
 X_train, X_test, Y_train, Y_test = train_test_split(cancerclean_n, Y,
